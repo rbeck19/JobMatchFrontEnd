@@ -30,6 +30,16 @@ def extract_email_from_resume(text):
     return email
 
 
+def extract_name_from_resume(text):
+    name = None
+    # Use regex pattern to find a potential name
+    pattern = r"(\b[A-Z][a-z]+\b)\s(\b[A-Z][a-z]+\b)"
+    match = re.search(pattern, text)
+    if match:
+        name = match.group()
+    return name
+
+
 skills_list = ['Python', 'Data Analysis', 'Machine Learning',
                'Communication', 'Project Management', 'Deep Learning', 'SQL', 'Tableau']
 
@@ -54,3 +64,13 @@ if uploaded_file:
     st.text(pdfemail)
     pdfskills = extract_skills_from_resume(pdftext, skills_list)
     st.text(pdfskills)
+    pdfname = extract_name_from_resume(pdftext)
+    st.text(pdfname)
+
+text_input = st.text_input(
+    "Enter Job Description",
+    placeholder='',
+)
+
+if text_input:
+    st.write("You entered: ", text_input)
