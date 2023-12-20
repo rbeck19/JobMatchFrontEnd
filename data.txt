@@ -1,0 +1,68 @@
+----This a Junior Data Engineer Job Posting----
+
+Who We Are
+Same Seats. Better Prices.
+Among the fastest growing technology companies, TickPick is reshaping the ticketing industry, putting money back in the wallets of live event-goers. Since inception, we have saved our customers over $100 million in service fees. Our BestPrice Guarantee backs up our promise to deliver better prices than our competition.
+For the last five years, TickPick has been named a Deloitte Technology Fast 500 award winner and has landed on lists of Inc. 5000’s and Crain's New York Business’ Fast 50.
+If you are passionate about concerts, sports, theater or all of them, and want to see your skills and experience have a direct impact on a fast growing company, TickPick is the place for you. We are building a diverse team, committed to providing the most innovative, transparent, and cost-effective ticket marketplace in the industry.
+Who You Are
+You are: a data engineer, backend software engineer, or other data specialist with strong desire and ability to implement high-impact data movement and management within a growing, technology-first team. 
+In this core role, you will be responsible for building and maintaining data pipelines touching a wide array of tools from the modern data stack, including but not limited to Snowflake, Spark, Dagster, dbt, and Azure Cloud offerings. You’ll be working closely with our current Data Engineer and other Analytics-focussed team members, as well as stakeholders from across the whole business. 
+If you value continual learning and are looking to join a high-visibility and high-impact team at a growing company that’s making data a priority, then this role is for you.
+Core Responsibilities
+Discover opportunities for data acquisition and implementation solutions
+Develop production processes and solutions to model, mine and surface data
+Improve and ensure data reliability, quality and efficiency
+Requirements
+BS or above in Computer Science or a related field, or equivalent personal or professional experience
+Communication ability is paramount: you understand the value of open communication and have a track record of interacting effectively with stakeholders and team members
+Experience and competency with at least one cloud services provider (Azure preferred; AWS or GCP also worthwhile)
+Strong Python and SQL skills, as well as at least general competency with web languages (HTML/Javascript)
+Python data competency – knowledge of and experience with, eg, Pandas or other Dataframe libraries. Polars, PySpark, or DuckDB are a big plus
+Experience and competency with at least one general data orchestration tool, eg Airflow, Dagster, Prefect, or similar other experience. Dagster specifically is a big plus
+dbt or other data modeling experience is a plus 
+Kafka experience is a plus
+Experience with web scraping tools is a plus, eg BeautifulSoup, Playwright, requests, or Selenium
+Experience with a dashboarding tool (eg Looker, Tableau, Superset, Metabase, or Streamlit) is a plus, but not most centrally important
+Experience with managed ETL tools (eg Fivetran, Hightouch) is worth mentioning if you have it, but not most centrally important 
+
+
+----- The ranked keywords that are extracted ----
+
+[(32.666666666666664, 'deloitte technology fast 500 award winner'), (29.5, 'new york business ’ fast 50'), 
+(27.82051282051282, 'least one general data orchestration tool'), (24.166666666666668, 'least one cloud services provider'), 
+(23.0, 'implementation solutions develop production processes'), (19.153846153846153, 'python data competency – knowledge'), 
+(15.153846153846153, 'maintaining data pipelines touching'), (15.0, 'core responsibilities discover opportunities'),
+(14.166666666666666, 'fastest growing technology companies'), (11.863636363636363, 'professional experience communication ability'), 
+(11.666666666666668, 'least general competency'), (10.0, 'fast growing company'), (9.5, 'azure cloud offerings'),
+(9.153846153846153, 'surface data improve'), (9.153846153846153, 'modern data stack'), (9.153846153846153, 'ensure data reliability'),
+(9.0, 'putting money back'), (9.0, 'last five years'), (9.0, 'gcp also worthwhile'), (9.0, 'efficiency requirements bs'),
+(9.0, 'effective ticket marketplace'), (9.0, 'bestprice guarantee backs'), (8.82051282051282, 'current data engineer'),
+(8.666666666666666, 'backend software engineer'), (8.517482517482517, 'data modeling experience'), (8.487179487179487, 'impact data movement'), 
+(8.4, 'focussed team members'), (8.333333333333334, 'managed etl tools'), (8.0, 'value continual learning'), (8.0, 'deliver better prices'),
+(7.833333333333334, 'web scraping tools'), (7.763636363636364, 'team members experience'), (7.530303030303029, 'plus kafka experience'), 
+(7.530303030303029, 'big plus experience'), (7.363636363636363, 'centrally important experience'), (7.166666666666666, 'big plus dbt'), 
+(6.0, 'whole business'), (6.0, 'dashboarding tool'), (5.82051282051282, 'data engineer'), (5.5, 'strong python'), (5.153846153846153, 'making data'), 
+(5.153846153846153, 'data specialist'), (5.153846153846153, 'data acquisition'), (5.0, 'open communication'), (5.0, 'growing company'), 
+(5.0, 'centrally important'), (5.0, 'better prices'), (4.733333333333333, 'impact team'), (4.53030303030303, 'plus experience'),
+(4.5, 'web languages'), (4.5, 'core role'), (4.5, 'azure preferred'), (4.5, '5000 ’'), (4.4, 'first team'), (4.4, 'diverse team'),
+(4.363636363636363, 'selenium experience'), (4.333333333333334, 'direct impact'), (4.0, 'worth mentioning'), (4.0, 'working closely'),
+(4.0, 'wide array'), (4.0, 'track record'), (4.0, 'strong desire'), (4.0, 'since inception'), (4.0, 'service fees'), (4.0, 'related field'), 
+(4.0, 'management within'), (4.0, 'live event'), (4.0, 'interacting effectively'), (4.0, 'equivalent personal'), (4.0, 'dataframe libraries'), 
+(4.0, 'computer science'), (4.0, '100 million'), (3.8, 'eg looker'), (3.8, 'eg fivetran'), (3.8, 'eg beautifulsoup'), (3.8, 'eg airflow'),
+(3.6666666666666665, 'technology'), (3.5, 'ticketing industry'), (3.5, 'sql skills'), (3.333333333333333, 'implement high'),
+(3.333333333333333, 'dagster specifically'), (3.0, 'solutions'), (2.5, '’'), (2.5, '’'), (2.5, 'growing'), (2.5, 'competency'),
+(2.5, 'competency'), (2.5, 'ability'), (2.3636363636363638, 'experience'), (2.3636363636363638, 'experience'),
+(2.3636363636363638, 'experience'), (2.3333333333333335, 'tools'), (2.1666666666666665, 'plus'), (2.1666666666666665, 'plus'), 
+(2.0, 'value'), (2.0, 'dbt'), (1.8, 'eg'), (1.5, 'skills'), (1.5, 'role'), (1.5, 'industry'), (1.3333333333333333, 'high'), 
+(1.3333333333333333, 'high'), (1.3333333333333333, 'dagster'), (1.3333333333333333, 'dagster'), (1.0, 'well'), (1.0, 'well'), 
+(1.0, 'want'), (1.0, 'wallets'), (1.0, 'visibility'), (1.0, 'understand'), (1.0, 'transparent'), (1.0, 'tickpick'), 
+(1.0, 'tickpick'), (1.0, 'tickpick'), (1.0, 'theater'), (1.0, 'tableau'), (1.0, 'superset'), (1.0, 'streamlit'),
+(1.0, 'stakeholders'), (1.0, 'stakeholders'), (1.0, 'sports'), (1.0, 'spark'), (1.0, 'snowflake'), (1.0, 'similar'),
+(1.0, 'see'), (1.0, 'seats'), (1.0, 'saved'), (1.0, 'responsible'), (1.0, 'reshaping'), (1.0, 'requests'), (1.0, 'quality'), 
+(1.0, 'pyspark'), (1.0, 'providing'), (1.0, 'promise'), (1.0, 'priority'), (1.0, 'prefect'), (1.0, 'polars'), 
+(1.0, 'playwright'), (1.0, 'place'), (1.0, 'passionate'), (1.0, 'paramount'), (1.0, 'pandas'), (1.0, 'named'), (1.0, 'model'),
+(1.0, 'mine'), (1.0, 'metabase'), (1.0, 'looking'), (1.0, 'lists'), (1.0, 'limited'), (1.0, 'landed'), (1.0, 'join'), 
+(1.0, 'javascript'), (1.0, 'innovative'), (1.0, 'including'), (1.0, 'inc'), (1.0, 'html'), (1.0, 'hightouch'), (1.0, 'goers'),
+(1.0, 'duckdb'), (1.0, 'customers'), (1.0, 'crain'), (1.0, 'cost'), (1.0, 'concerts'), (1.0, 'competition'), (1.0, 'committed'),
+(1.0, 'building'), (1.0, 'building'), (1.0, 'aws'), (1.0, 'analytics'), (1.0, 'among'), (1.0, 'across')]

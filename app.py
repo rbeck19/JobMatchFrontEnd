@@ -96,6 +96,10 @@ if uploaded_file:
     st.text(pdfskills)
     pdfname = extract_name_from_resume(pdftext)
     st.text(pdfname)
+    r = Rake()
+    r.extract_keywords_from_text(pdftext)
+    ranked = r.get_ranked_phrases_with_scores()
+    # print(ranked)
 
 text_input = st.text_input(
     "Enter Job Description",
@@ -103,22 +107,19 @@ text_input = st.text_input(
 )
 
 if text_input:
+    # keyBert does not return enough keywords
     # st.write("You entered: ", text_input)
     # kw_model = KeyBERT()
     # keywords = kw_model.extract_keywords(text_input)
     # print(keywords)
     #
     normText = normalized_text(text_input)
-    print(normText)
-    # rake_nltk_var = Rake()
-    # rake_nltk_var.extract_keywords_from_text(text_input)
-    # keyword_extracted = rake_nltk_var.get_ranked_phrases()
-    # print(keyword_extracted)
+    # print(normText)
+    #
     r = Rake()
-    a = r.extract_keywords_from_text(text_input)
-    b = r.get_ranked_phrases()
-    c = r.get_ranked_phrases_with_scores()
+    r.extract_keywords_from_text(text_input)
+    nonRanked = r.get_ranked_phrases()
+    ranked = r.get_ranked_phrases_with_scores()
     # e = r.extract_keywords_from_sentences(normText)
-    # print(b)
-    print(c)
-    # print(e)
+    # print(nonRanked)
+    print(ranked)
