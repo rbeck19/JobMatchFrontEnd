@@ -6,9 +6,12 @@ streamlit run app.py
 # To run the Flask Application 
 
 ```commandline
-. \scripts\activate // to activate the environment
 
 cd "JobMatchFrontEnd" // to change directory 
+
+. \scripts\activate // to activate the environment
+
+
 
 pip install -r requirements.txt // to install required dependencies
 
