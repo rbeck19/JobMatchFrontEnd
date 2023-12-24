@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Job Matching Application</title>
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+
+    </head>
+    <body>
+    <h1>AI Job Matching Portal </h1>
+        <form class="input_form">
+            <div class="input_fields">
+                <div>
+                    <label>Resume :
+                    </label>
+                    <textarea  placeholder="Copy and Paste Resume" rows="20" style="width:100%" data-announce="true"></textarea>
+                </div>
+                <div>
+                    <label>Job Description :
+                    </label>
+                    <textarea  placeholder="Copy and Paste Job Description" rows="20" style="width:100%" data-announce="true"></textarea>
+                </div>
+            </div>
+            <button type="submit">Match Job Description</button>
+        </form>
+
+        <div>
+            <h1>This is the place where matching score will be displayed</h1>
+        </div>
+    </body>
+</html>
